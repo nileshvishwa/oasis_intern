@@ -15,7 +15,10 @@
 
 
 body{
-  background-color: var(--primary-color);
+ 
+  background-image: url(1.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
   font-family: 'Nunito', sans-serif;
 
 }
@@ -33,4 +36,5 @@ body{
 
 .card{
   box-shadow: 10px 20px 30px;
+  background-image: linear-gradient(rgba(47, 41, 41, 0.9),rgba(65, 202, 248, 0.9));
 }
