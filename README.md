@@ -3,7 +3,7 @@
 Task -1 
 https://vishwanilesh09.github.io/oasis_intern/Task1/
 
-Task2 - 2
+Task - 2
 
 https://vishwanilesh09.github.io/oasis_intern/Task2/
 
